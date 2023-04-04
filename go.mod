@@ -1,4 +1,4 @@
-module github.com/ignacioMagno/utils
+module github.com/ignacio-magno/utils
 
 go 1.19
 
